@@ -1,1 +1,3 @@
 # NickGenerator
+
+Generador de nicks
